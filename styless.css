@@ -1213,11 +1213,11 @@ footer .footer___2 p a {
     flex-direction: column;
   }
   .works {
-    /* flex-wrap: wrap !important; */
+     flex-wrap: wrap !important; 
     max-width: 100% !important;
   }
   .works div {
-    width: 47% !important;
+    width: 100%;
   }
   .sub__footer {
     justify-content: center;
